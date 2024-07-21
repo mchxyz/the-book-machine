@@ -140,4 +140,3 @@ const randomLink = bookLinks[randomIndex];
 // Add event listener to button
  let discoverNextReading = document.getElementById("discover-book-button");
  discoverNextReading.addEventListener("click", generateRandomLink);
- 
